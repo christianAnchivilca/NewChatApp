@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewChatApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="friends">Amigos</string>
+    <string name="my_account">Mi Cuenta</string>
+    <string name="save">Guardar</string>
+    <string name="sign_out">Cerrar Sesion</string>
+    <string name="lorem_ipsum">popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia</string>
+</resources>
